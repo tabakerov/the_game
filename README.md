@@ -1,3 +1,11 @@
+# Update 1
+
+## A Pivot!
+
+I understand one crucial thing recently. It would be more useful for me (considering I want to learn methodically right now) not to implement a whole game, but to train my skills implementing various game mechanics!
+
+So right now, I’m building a setup to construct Penrose Tiling (Kites and Darts). Key features are snapping pieces together and controlling available and “forbidden” locations.
+
 # I'm going to make a game.
 
 Right! I'm going to make a game. And I'm going to make this development process open and public. So follow me on Twitch and Twitter:
